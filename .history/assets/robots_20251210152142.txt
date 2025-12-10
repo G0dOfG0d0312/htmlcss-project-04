@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /dang-ky.html
+Disallow: /dang-nhap.html
+
+
+/abc/123.html
+/abc/123.html
+Sitemap: https://www.example.com/sitemap.xml

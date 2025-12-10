@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /dang-ky.html
+Disallow: /dang-nhap.html
+
+
+
+Sitemap: https://github.com/G0dOfG0d0312/htmlcss-project-04.git/sitemap.xml
